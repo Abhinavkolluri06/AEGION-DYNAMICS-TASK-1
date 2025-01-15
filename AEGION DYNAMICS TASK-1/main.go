@@ -246,7 +246,7 @@ func main() {
 		}
 
 		// Sleep for 24 hours
-		time.Sleep(10 * time.Second)
+		time.Sleep(24 * time.Hour)
 	}
 
 }
